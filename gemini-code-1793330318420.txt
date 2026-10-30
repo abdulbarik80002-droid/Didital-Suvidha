@@ -1,0 +1,2 @@
+Execution failed for task ':app:validateSigningDebug'
+> Keystore file '...' not found for signing config 'debugConfig'.
