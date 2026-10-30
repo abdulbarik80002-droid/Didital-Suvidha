@@ -1,0 +1,6 @@
+{
+  "name": "Digital Suvidha",
+  "description": "Comprehensive workforce management, payroll, and digital financial suvidha for construction contractors and teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
